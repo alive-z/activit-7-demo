@@ -1,0 +1,13 @@
+/.idea
+/*.iml
+/*/*.iml
+/LOG_DIR_IS_UNDEFINED
+/*/LOG_DIR_IS_UNDEFINED
+
+/*/.rebel*
+
+target
+*.log
+velocity.log.*
+~/sources/
+
